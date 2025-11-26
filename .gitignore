@@ -1,0 +1,4 @@
+.DS Stores
+node_modules/
+.vscode/
+dist/
